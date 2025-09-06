@@ -1,16 +1,10 @@
-# My Unity Game
+# Block Breaker
 
-A small Unity project made in [Unity version].
+If you wish to play this game, click this link: https://imaginarypilot.itch.io/blockbreaker
 
-## Features
-- Player controls
-- Basic enemies
-- Scoring system
+## Screenshot
+<img width="347" height="195" alt="image" src="https://github.com/user-attachments/assets/d6497b60-1baa-485c-94ca-46fb5ec46b0e" />
 
-## How to Play
-1. Clone this repo
-2. Open in Unity Hub
-3. Press Play
 
 ## License
 MIT License – see LICENSE file
